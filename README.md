@@ -25,4 +25,4 @@
 
 <img width="1512" alt="lab-01-node" src="https://github.com/opyle/cit281-p1/assets/166080658/d8341ef2-63a8-42d2-bb11-72628f02a99a">
 
-Back to [**CIT281**](https://github.com/opyle/CIT281.git)
+Back to [**CIT281**]([https://github.com/opyle/CIT281.git](https://opyle.github.io/CIT281/))
