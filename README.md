@@ -19,4 +19,10 @@
 14. Jump to end of line: Command + Right Arrow
 15. Jump to beginning of current file: Command + Up Arrow
 
+<img width="1512" alt="lab-01-folders" src="https://github.com/opyle/cit281-p1/assets/166080658/da38d8f1-74f4-40c3-bf71-b5ce43194dc3">
+
+<img width="1512" alt="p1-ping" src="https://github.com/opyle/cit281-p1/assets/166080658/d881792e-dbdd-48ac-b510-2378bf78f847">
+
+<img width="1512" alt="lab-01-node" src="https://github.com/opyle/cit281-p1/assets/166080658/d8341ef2-63a8-42d2-bb11-72628f02a99a">
+
 Back to [**CIT281**](https://github.com/opyle/CIT281.git)
